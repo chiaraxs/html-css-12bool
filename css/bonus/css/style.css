@@ -1,0 +1,30 @@
+[class*="col-"] {
+    height: 20px;
+}
+
+body h1, h3{
+    margin-top: 50px;
+    text-align: center;
+    margin: 10px;
+}
+
+h1{
+    color: red;
+    font-weight: bold;
+}
+
+.black{
+    background-color: black;
+}
+
+.red{
+    background-color: red;
+}
+
+.magenta{
+    background-color: maroon;
+}
+
+.white{
+    background-color: white;
+}
